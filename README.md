@@ -43,7 +43,7 @@ Check out the **video demonstration** [here](https://www.linkedin.com/posts/muha
 ## 📬 Contact  
 For any queries or collaborations, feel free to reach out!  
 
-🔗 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/muhammad-zain-rehmani/)  
+🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/muhammad-zain-rehmani/)  
 
 ## 🔖 License  
 This project is licensed under the **MIT License**.  
