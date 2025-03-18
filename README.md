@@ -11,7 +11,8 @@ This project demonstrates the **real-time multimedia processing** capabilities o
 
 ## 🛠️ Tech Stack  
 - **Gemini 2.0** – AI model for multimedia processing  
-- **Python** – Backend scripting  
+- **Python** – Backend scripting
+- **JS** -Front-End scripting
 
 ## 📷 Demo  
 Check out the **video demonstration** [here](https://www.linkedin.com/posts/muhammad-zain-rehmani_ai-machinelearning-generativeai-activity-7307840725885329411-DSRO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFInAIB7r0OppFkBhCGCHKd0pkXQ5PwfUo).  
@@ -19,7 +20,7 @@ Check out the **video demonstration** [here](https://www.linkedin.com/posts/muha
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/real-time-object-recognition.git
+   git clone https://github.com/muhammadzainrehmani/real-time-object-recognition.git
    ```
 2. Navigate to the project folder:  
    ```bash
@@ -42,7 +43,6 @@ Check out the **video demonstration** [here](https://www.linkedin.com/posts/muha
 ## 📬 Contact  
 For any queries or collaborations, feel free to reach out!  
 
-📧 **Email:** your-email@example.com  
 🔗 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/muhammad-zain-rehmani/)  
 
 ## 🔖 License  
